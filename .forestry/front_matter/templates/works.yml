@@ -36,6 +36,7 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/art-boutique.md
 - portfolio/works/type-as-image.md
 - portfolio/works/journey-goes-both-ways.md
 - portfolio/works/cibo-italiano.md
