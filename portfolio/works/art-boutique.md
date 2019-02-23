@@ -1,13 +1,13 @@
 ---
-title: ET SunShine Art Boutique
+title: ET SunShine Online Art Boutique
 thumbnail: "/upload/etsunshine_home.png"
-description: At my art boutique, www.etsunshine.com, we make that brightens your day.
+description: We make that brightens your day.
 categories: []
 year: 2018
 date: ''
 
 ---
-# ET SunShine Art Boutique
+# ET SunShine Online Art Boutique
 
 At my art boutique, [www.etsunshine.com](https://www.etsunshine.com/ "ET Sunshine"), we make that brightens your day. In forms of postcards, stickers and candles, we simply want to share our art with the world.
 
