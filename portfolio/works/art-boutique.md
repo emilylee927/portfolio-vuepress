@@ -1,5 +1,5 @@
 ---
-title: Art Boutique
+title: Art Boutique Website
 thumbnail: "/upload/etsunshine_home.png"
 description: We make art that brightens your day.
 categories: []
