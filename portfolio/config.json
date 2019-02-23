@@ -6,12 +6,6 @@
   "favicon": "/upload/favicon.ico",
   "navigation": [
     {
-      "text": "Works",
-      "link": "/",
-      "position": "left",
-      "external": false
-    },
-    {
       "text": "YouTube",
       "link": "https://www.youtube.com/em'syouth",
       "position": "left",
