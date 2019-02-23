@@ -2,8 +2,8 @@
   "title": "Emily Lee",
   "description": "Web Designer",
   "logo": "/upload/em suit small.png",
-  "footer": "Ⓒ Acme",
-  "favicon": "favicon-32x32.png",
+  "footer": "Ⓒ Li-Jung Lee",
+  "favicon": "/upload/favicon.ico",
   "navigation": [
     {
       "text": "Works",
@@ -12,8 +12,8 @@
       "external": false
     },
     {
-      "text": "Instagram",
-      "link": "https://www.instagram.com/its.nwa",
+      "text": "YouTube",
+      "link": "https://www.youtube.com/em'syouth",
       "position": "left",
       "external": true
     },
