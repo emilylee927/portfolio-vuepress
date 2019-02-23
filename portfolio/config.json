@@ -22,12 +22,6 @@
       "link": "mailto:emilylee927@gmail.com",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "Journal",
-      "link": "/journal/",
-      "position": "right",
-      "external": false
     }
   ]
 }
