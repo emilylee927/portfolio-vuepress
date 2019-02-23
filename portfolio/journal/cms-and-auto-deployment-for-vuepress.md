@@ -18,7 +18,7 @@ We need to create a `package.json` file in the root of our project, this will in
       "scripts": {
         "site:build": "vuepress build"
       },
-      "author": "Nichlas W. Andersen",
+      "author": "Li-Jung Lee",
       "license": "MIT",
       "dependencies": {
         "vuepress": "^0.14.1"
