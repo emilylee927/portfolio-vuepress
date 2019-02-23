@@ -12,6 +12,6 @@ date: ''
 
 I am here all by myself. I'm lonely... yet stronger than ever.
 
-![](/upload/CreditTransfer093.jpg)
+![A black and white collage of walking up and down stairs with a heel on.](/upload/CreditTransfer093.jpg "Journey goes both ways")
 
 Black & white collage taken with an analog SLR.
