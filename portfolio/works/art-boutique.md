@@ -7,7 +7,7 @@ year: 2018
 date: ''
 
 ---
-# Art Boutique
+# Art Boutique Website
 
 At my art boutique, [www.etsunshine.com](https://www.etsunshine.com/ "ET Sunshine"), we make that brightens your day. In forms of postcards, stickers and candles, we simply want to share our art with the world.
 
