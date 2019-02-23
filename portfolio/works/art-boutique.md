@@ -9,8 +9,8 @@ date: ''
 ---
 # Art Boutique
 
-At my art boutique, ET SunShine, we make that brightens your day. In forms of postcards, stickers and candles, we simply want to share our art with the world.
+At my art boutique, [www.etsunshine.com](https://www.etsunshine.com/ "ET Sunshine"), we make that brightens your day. In forms of postcards, stickers and candles, we simply want to share our art with the world.
 
-![](/upload/etsunshine_home.png)
+![Homepage of ET SunShine Boutique](/upload/etsunshine_home.png "ET SunShine HomePage")
 
 The website is created with Shopify.
