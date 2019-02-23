@@ -9,6 +9,6 @@ description: Transforming my life data into a visualization
 ---
 # hey i miss you...
 
-![](/upload/Emily_Lee_Diagram.png)
+![Transforming my life data into a visualization](/upload/Emily_Lee_Diagram.png "hey i miss you...")
 
 Created using Adobe InDesign
