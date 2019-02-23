@@ -36,4 +36,5 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/type-as-image.md
 - portfolio/works/cibo-italiano.md
