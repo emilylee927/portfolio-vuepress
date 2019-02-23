@@ -1,7 +1,7 @@
 ---
 title: ET SunShine Art Boutique
 thumbnail: "/upload/etsunshine_home.png"
-description: We make art that brightens your day.
+description: At my art boutique, www.etsunshine.com, we make that brightens your day.
 categories: []
 year: 2018
 date: ''
