@@ -1,15 +1,14 @@
 ---
-title: Life Data Visualization
+title: hey i miss you...
 date: 2018-08-01 00:00:00 +0000
 thumbnail: "/upload/Emily_Lee_Diagram.png"
 year: 2018
-categories:
-- print
-description: subtitle
+categories: []
+description: Transforming my life data into a visualization
 
 ---
-# Life Data Visualization
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# hey i miss you...
 
 ![](/upload/Emily_Lee_Diagram.png)
+
+Created using Adobe InDesign
