@@ -35,5 +35,3 @@ fields:
   type: datetime
   config:
     required: true
-pages:
-- portfolio/works/type-as-image.md
