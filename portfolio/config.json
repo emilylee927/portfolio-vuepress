@@ -6,12 +6,6 @@
   "favicon": "/upload/favicon.ico",
   "navigation": [
     {
-      "text": "LinkedIn",
-      "link": "https://www.linkedin.com/in/li-jung-lee-44598a149/",
-      "position": "right",
-      "external": true
-    },
-    {
       "text": "Portfolio Home",
       "link": "/",
       "position": "left",
@@ -20,6 +14,12 @@
     {
       "text": "YouTube",
       "link": "https://www.youtube.com/em'syouth",
+      "position": "right",
+      "external": true
+    },
+    {
+      "text": "LinkedIn",
+      "link": "https://www.linkedin.com/in/li-jung-lee-44598a149/",
       "position": "right",
       "external": true
     },
