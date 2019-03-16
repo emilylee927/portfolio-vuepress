@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: <strong>Hi I'm Emily Lee. <img src="/upload/girl.png"></strong><br><br>I'm
-  a web developer, graphic designer, and video editor.
+hero_text: "<strong>Hi I'm Emily Lee. \U0001F483\U0001F3FB<br></strong><br>I'm a web
+  developer, graphic designer, and video editor."
 title: Hero
 
 ---
